@@ -177,7 +177,7 @@ svg { display: block; }
   height: 100%;
   display: block;
   object-fit: cover;
-  object-position: center 38%;
+  object-position: center 50%;
 }
 
 .profile-copy h1 {
